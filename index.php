@@ -108,6 +108,9 @@
             <input type="text" name="sprava" id="sprava">
             <button type="submit">Poslať</button>
         </form>
+        <form action="index.php">
+            <button type="submit"><img src="" alt="Refresh"></button>
+        </form>
         <section style="overflow:scroll;" class="chats" id="chatBar">
             <?php
 
@@ -121,7 +124,7 @@
 
             $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
 
-            $DB_req = "SELECT name, message FROM messages WHERE 1";
+            $DB_req = "SELECT name, message FROM messages WHERE 1 ORDER BY ID DESC";
             $DB_res = mysqli_query($DB_con, $DB_req);
             if (mysqli_num_rows($DB_res) > 0) {
             while($row = mysqli_fetch_assoc($DB_res)) {
