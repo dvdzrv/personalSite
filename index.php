@@ -118,19 +118,19 @@
             $DB_pass = "Sklad123.";
             $DB_name = "SzomolaiProjekt";
 
-            $DB_con = new mysqli($DB_host, $DB_user, $DB_pass, $DB_name);
+            $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
 
             $DB_req = "SELECT name, message FROM messages WHERE 1";
-            $DB_res = $DB_con -> query($DB_req);
+            $DB_res = mysqli_query($DB_con, $DB_req);
             if (mysqli_num_rows($DB_res) > 0) {
-            while($row = $DB_res -> fetch_assoc()){
+            while($row = mysqli_fetch_assoc($DB_res)) {
                 echo "<p><b>".$row['name']."</b>: ".$row['message']."</p>";
             }
             }else {
                 echo "Nič tu nie je.";
             }
 
-            $DB_res->close();
+            mysqli_close($DB_con);
             ?>
         </section>
 
