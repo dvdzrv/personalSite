@@ -109,10 +109,7 @@
             <button type="submit">Poslať</button>
         </form>
         <section style="overflow:scroll;" class="chats" id="chatBar">
-            <p class="chats"><b>Jožo:</b> Super stránka bro.</p>
             <?php
-                echo "FUNGUJE";
-
             $DB_host = "localhost";
             $DB_user = "root";
             $DB_pass = "Sklad123.";
