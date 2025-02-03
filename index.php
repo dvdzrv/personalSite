@@ -114,7 +114,7 @@
                 echo "FUNGUJE";
 
             $DB_host = "localhost";
-            $DB_user = "sklad";
+            $DB_user = "root";
             $DB_pass = "Sklad123.";
             $DB_name = "SzomolaiProjekt";
 
