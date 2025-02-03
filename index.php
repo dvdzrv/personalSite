@@ -112,7 +112,7 @@
             <p class="chats"><b>Jožo:</b> Super stránka bro.</p>
             <?php
                 echo "FUNGUJE";
-            /*
+
             $DB_host = "172.30.0.101";
             $DB_user = "root";
             $DB_pass = "Sklad123.";
@@ -120,16 +120,17 @@
 
             $DB_con = new mysqli($DB_host, $DB_user, $DB_pass, $DB_name);
 
-            $DB_req = "SELECT name, message FROM massages WHERE 1";
+            $DB_req = "SELECT name, message FROM messages WHERE 1";
             $DB_res = $DB_con -> query($DB_req);
-
+            if (mysqli_num_rows($DB_res) > 0) {
             while($row = $DB_res -> fetch_assoc()){
                 echo "<p><b>".$row['name']."</b>: ".$row['message']."</p>";
+            }
             }else {
-                echo "";
+                echo "Nič tu nie je.";
             }
 
-            $DB_res->close(); */
+            $DB_res->close();
             ?>
         </section>
 
