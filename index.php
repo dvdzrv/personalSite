@@ -101,7 +101,7 @@
     <aside class="float_left">
         <h2>Lokálny chat:</h2>
         <p>Čauko, zanechaj svoj unikátny odkaz na tejto stránke:</p>
-        <form action="">
+        <form action="uloz.php" method="POST">
             <label for="meno">Tvoje ctené meno:</label>
             <input type="text" name="meno" id="meno">
             <label for="sprava">Tvoja jedinečná správa:</label>
@@ -126,7 +126,6 @@
             }else {
                 echo "Nič tu nie je.";
             }
-
             mysqli_close($DB_con);
             ?>
         </section>
