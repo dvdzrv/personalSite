@@ -111,6 +111,8 @@
         <section style="overflow:scroll;" class="chats" id="chatBar">
             <p class="chats"><b>Jožo:</b> Super stránka bro.</p>
             <?php
+                echo "FUNGUJE";
+            /*
             $DB_host = "172.30.0.101";
             $DB_user = "root";
             $DB_pass = "Sklad123.";
@@ -123,9 +125,11 @@
 
             while($row = $DB_res -> fetch_assoc()){
                 echo "<p><b>".$row['name']."</b>: ".$row['message']."</p>";
+            }else {
+                echo "";
             }
 
-            $DB_res->close();
+            $DB_res->close(); */
             ?>
         </section>
 
