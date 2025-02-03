@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Portfolio</title>
+    <title>Portfólio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -124,7 +124,7 @@
 
             $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
 
-            $DB_req = "SELECT name, message FROM messages WHERE 1 ORDER BY ID DESC";
+            $DB_req = "SELECT name, message FROM messages ORDER BY ID DESC";
             $DB_res = mysqli_query($DB_con, $DB_req);
             if (mysqli_num_rows($DB_res) > 0) {
             while($row = mysqli_fetch_assoc($DB_res)) {
