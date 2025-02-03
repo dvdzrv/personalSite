@@ -113,8 +113,8 @@
             <?php
                 echo "FUNGUJE";
 
-            $DB_host = "172.30.0.101";
-            $DB_user = "root";
+            $DB_host = "localhost";
+            $DB_user = "sklad";
             $DB_pass = "Sklad123.";
             $DB_name = "SzomolaiProjekt";
 
