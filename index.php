@@ -110,10 +110,14 @@
         </form>
         <section style="overflow:scroll;" class="chats" id="chatBar">
             <?php
-            $DB_host = "localhost";
-            $DB_user = "root";
-            $DB_pass = "Sklad123.";
-            $DB_name = "SzomolaiProjekt";
+
+            $env = parse_ini_file(".env");
+
+            $DB_host = $env['DB_HOST'];
+            $DB_user = $env['DB_USER'];
+            $DB_pass = $env['DB_PASS'];
+            $DB_name = $env['DB_NAME'];
+
 
             $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
 
