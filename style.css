@@ -88,14 +88,13 @@ header nav a:hover {
     border-radius: 1%;
 }
 
-.float_left form button a{
+.float_left form button a img {
     text-decoration: none;
     color: white;
 }
 
 
-
-.float_right a{
+.float_right a {
     text-decoration: none;
     color: darkred;
 }
@@ -116,7 +115,6 @@ header nav a:hover {
 
 footer {
     text-align: left;
-    width: 50%;
     margin-right: 25%;
     margin-left: 15%;
     padding: 1%;
@@ -132,7 +130,7 @@ section img {
     max-height: 20%;
 }
 
-.imgLink{
+.imgLink {
     height: auto;
     max-width: 3.5%;
     background-color: lightgrey;
