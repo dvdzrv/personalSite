@@ -9,7 +9,7 @@
 </head>
 <body>
     <?php
-        if (isset($_POST ['username']) AND isset($_POST ['password'])) {
+        if (!empty($_POST ['username']) AND !empty($_POST ['password'])) {
             $env = parse_ini_file(".env");
             $DB_host = $env['DB_HOST'];
             $DB_user = $env['DB_USER'];
