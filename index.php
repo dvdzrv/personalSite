@@ -151,7 +151,7 @@
             Zdrojový kód tejto stránky bude publikovaný na <a href="https://github.com/dvdzrv/">mojom Githube.</a> Prosím inšpiruj sa alebo mi pomôž a moju stránku oprav.
         </p>
         <p>
-            Čas na serveri pri načítaní stránky: <?php echo date("d.M.Y H:i:s");?>.
+            Dátum a čas na serveri pri načítaní stránky: <br> <?php echo date("d.M.Y H:i:s");?>.
         </p>
         <br>
         <br>
