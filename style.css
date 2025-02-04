@@ -135,7 +135,9 @@ section img {
     border-radius: 20%;
 }
 
-body {
-    scrollbar-width: thin;
-    scrollbar-color: darkred lightgray;
+.charBar {
+    --scrollbar-color-thumb: lightgrey;
+    --scrollbar-color-track: darkred;
+    --scrollbar-width: thin;
+    --scrollbar-width-legacy: 10px;
 }
