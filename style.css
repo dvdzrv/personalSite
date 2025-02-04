@@ -84,12 +84,6 @@ header nav a:hover {
     text-decoration: none;
 }
 
-.float_left form button a img {
-    width: 1%;
-    height: 1%;
-}
-
-
 .float_left section {
     margin-top: 10%;
     padding: 1%;
