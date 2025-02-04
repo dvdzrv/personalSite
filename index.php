@@ -27,7 +27,7 @@
         <section>
             <h3>Názov projektu</h3>
             <article>
-                <img src="http://192.168.100.106/images/lily.webp" alt="Projekt image">
+                <img src="images/lily.webp" alt="Projekt image">
 
 
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid autem consequatur delectus eos esse eum excepturi hic inventore iste iusto odit omnis praesentium quas quo, sit veniam, vero vitae.
