@@ -134,3 +134,7 @@ section img {
     padding: 1em;
     border-radius: 20%;
 }
+
+aside form button {
+    display: inline;
+}
