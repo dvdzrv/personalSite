@@ -90,8 +90,12 @@ header nav a:hover {
 
 .refreshIMG {
     height: 1%;
-    width: 2%;
     text-decoration: none;
+}
+
+.refreshIMG img {
+    height: 1%;
+    width: 1%;
 }
 
 
