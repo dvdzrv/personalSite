@@ -12,7 +12,7 @@
     <header>
         <h1>Dávid Szomolai:</h1>
         <h1>Osobné portfólio</h1>
-        <img src="images/logo.svg" alt="Logo">
+        <img src="images/logo.png" alt="Logo">
         <br>
         <nav>
             <a href="">LINK1</a>
