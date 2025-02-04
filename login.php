@@ -34,6 +34,9 @@
             }
             mysqli_close($DB_con);
         } else {
+            if (!empty($_POST ['username']) OR !empty($_POST ['password'])) {
+                echo "Prázdne meno alebo heslo!";
+            }
             echo "
                 <form action=\"login.php\" method=\"post\">
                 <label for=\"username\">Prihlasovacie meno:</label>
