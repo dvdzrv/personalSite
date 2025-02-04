@@ -101,7 +101,7 @@
     <aside class="float_left">
         <h2>Lokálny chat:</h2>
         <p>Čauko, zanechaj svoj unikátny odkaz na tejto stránke:</p>
-        <form action="uloz.php" method="POST">
+        <form action="uloz.php" method="post">
             <label for="meno">Tvoje ctené meno:</label>
             <input type="text" name="meno" id="meno">
             <label for="sprava">Tvoja jedinečná správa:</label>
