@@ -135,7 +135,7 @@ section img {
     border-radius: 20%;
 }
 
-.scroller {
+body {
     scrollbar-width: thin;
     scrollbar-color: darkred lightgray;
 }
