@@ -135,7 +135,7 @@ section img {
     border-radius: 20%;
 }
 
-.charBar {
+#chatBar {
     --scrollbar-color-thumb: lightgrey;
     --scrollbar-color-track: darkred;
     --scrollbar-width: thin;
