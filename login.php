@@ -28,9 +28,9 @@
             echo $_POST['username'] . $_POST['password'];
             echo "ta dačo nejde";
 
-            if(mysqli_num_rows($DB_req) > 0){
+            if(mysqli_num_rows($DB_res) > 0){
                 echo "ta dačo nejde";
-                $row = mysqli_fetch_assoc($DB_req);
+                $row = mysqli_fetch_assoc($DB_res);
                 echo $row['username'] . $row['password'];
             } else {
                 echo "ŠPATNE HESLO";
