@@ -21,7 +21,7 @@
             $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
             echo "ta dačo nejde";
 
-            $DB_req = mysqli_query($DB_con, "SELECT username, password FROM users WHERE username = '$_POST[username]'");
+            $DB_req = mysqli_query($DB_con, "SELECT username, password FROM users WHERE username = '" . $_POST['username'] . "'");
             $DB_res = mysqli_query($DB_con, $DB_req);
             echo "ta dačo nejde";
             echo $_POST['username'] . $_POST['password'];
