@@ -134,3 +134,19 @@ section img {
     padding: 1em;
     border-radius: 20%;
 }
+
+::-webkit-scrollbar{
+    width: 2%;
+}
+
+::-webkit-scrollbar-track {
+    background: #650d0d;
+}
+
+::-webkit-scrollbar-thumb {
+    background: lightgrey;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: grey;
+}
