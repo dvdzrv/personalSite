@@ -89,8 +89,8 @@ header nav a:hover {
 }
 
 .float_left form button a img {
-    text-decoration: none;
-    color: white;
+    width: 1%;
+    height: auto;
 }
 
 
