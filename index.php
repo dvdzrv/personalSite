@@ -107,9 +107,7 @@
             <label for="sprava">Tvoja jedinečná správa:</label>
             <input type="text" name="sprava" id="sprava">
             <button type="submit">Poslať</button>
-        </form>
-        <form action="index.php">
-            <button type="submit"><img src="" alt="Refresh"></button>
+            <button type="submit"><a href="index.php"><img src="" alt="Refresh"></a></button>
         </form>
         <section style="overflow:scroll;" class="chats" id="chatBar">
             <?php
