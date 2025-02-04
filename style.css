@@ -89,7 +89,8 @@ header nav a:hover {
 }
 
 .refreshIMG {
-    height: 1%;
+    height: 5%;
+    width: auto;
     text-decoration: none;
 }
 
