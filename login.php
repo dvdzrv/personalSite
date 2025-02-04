@@ -10,6 +10,7 @@
 <body>
     <?php
         if (isset($_POST ['password'], $_POST ['username'])) {
+            echo "ta dačo nejde";
             $env = parse_ini_file(".env");
             $DB_host = $env['DB_HOST'];
             $DB_user = $env['DB_USER'];
