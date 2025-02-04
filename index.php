@@ -153,7 +153,7 @@
         <br>
         <br>
         <br>
-        <img style="width: 35%; height: auto;" src="images/xenia1.png" alt="Xenia The Linux Fox">
+        <a href="login.php"><img style="width: 35%; height: auto;" src="images/xenia1.png" alt="Xenia The Linux Fox"></a>
     </aside>
 
 
