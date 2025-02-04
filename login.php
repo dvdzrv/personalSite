@@ -16,14 +16,19 @@
             $DB_user = $env['DB_USER'];
             $DB_pass = $env['DB_PASS'];
             $DB_name = $env['DB_NAME'];
+            echo "ta dačo nejde";
 
             $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
+            echo "ta dačo nejde";
 
             $DB_req = mysqli_query($DB_con, "SELECT username, password FROM users WHERE username = '$_POST[username]'");
             $DB_res = mysqli_query($DB_con, $DB_req);
+            echo "ta dačo nejde";
             echo $_POST['username'] . $_POST['password'];
+            echo "ta dačo nejde";
 
             if(mysqli_num_rows($DB_req) > 0){
+                echo "ta dačo nejde";
                 $row = mysqli_fetch_assoc($DB_req);
                 echo $row['username'] . $row['password'];
             } else {
