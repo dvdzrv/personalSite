@@ -88,6 +88,13 @@ header nav a:hover {
     border-radius: 1%;
 }
 
+.float_left form button a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
 .float_right a{
     text-decoration: none;
     color: darkred;
