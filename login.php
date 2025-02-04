@@ -10,36 +10,33 @@
 <body>
     <?php
         if (isset($_POST ['password'], $_POST ['username'])) {
-            echo $_POST['username'] . $_POST['password'];
-            echo "ta dačo nejde";
             $env = parse_ini_file(".env");
             $DB_host = $env['DB_HOST'];
             $DB_user = $env['DB_USER'];
             $DB_pass = $env['DB_PASS'];
             $DB_name = $env['DB_NAME'];
-            echo "ta dačo nejde";
 
             $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
-            echo "ta dačo nejde";
 
             $DB_req = "SELECT username, password FROM users WHERE username = '" . $_POST['username'] . "'";
             $DB_res = mysqli_query($DB_con, $DB_req);
-            echo "ta dačo nejde";
-            echo $_POST['username'] . $_POST['password'];
-            echo "ta dačo nejde";
+
 
             if(mysqli_num_rows($DB_res) > 0){
-                echo "ta dačo nejde";
                 $row = mysqli_fetch_assoc($DB_res);
-                echo $row['username'] . $row['password'];
+                if ($_POST['password'] == $row['password']) {
+                    echo "Správne heslo.";
+                } else {
+                    echo "Nesprávne heslo.";
+                }
             } else {
-                echo "ŠPATNE HESLO";
+                echo "Zlé prihlasovacie meno!";
             }
             mysqli_close($DB_con);
         } else {
             echo "
                 <form action=\"login.php\" method=\"post\">
-                <label for=\"username\">Meno:</label>
+                <label for=\"username\">Prihlasovacie meno:</label>
                 <input name=\"username\" type=\"text\">
                 <label for=\"password\">Heslo:</label>
                 <input name=\"password\" type=\"password\">
