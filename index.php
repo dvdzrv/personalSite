@@ -153,7 +153,7 @@
         <br>
         <br>
         <br>
-        <img style="width: 5%; height: auto;" src="images/xenia1.png" alt="Xenia The Linux Fox">
+        <img style="width: 25%; height: auto;" src="images/xenia1.png" alt="Xenia The Linux Fox">
     </aside>
 
 
