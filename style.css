@@ -135,7 +135,7 @@ section img {
     border-radius: 20%;
 }
 
-#chatBar {
+.chats {
     --scrollbar-color-thumb: lightgrey;
     --scrollbar-color-track: darkred;
     --scrollbar-width: thin;
@@ -143,7 +143,7 @@ section img {
 }
 /* Modern browsers with `scrollbar-*` support */
 @supports (scrollbar-width: auto) {
-    .scroller {
+    .chats {
         scrollbar-color: var(--scrollbar-color-thumb) var(--scrollbar-color-track);
         scrollbar-width: var(--scrollbar-width);
     }
@@ -151,13 +151,13 @@ section img {
 
 /* Legacy browsers with `::-webkit-scrollbar-*` support */
 @supports selector(::-webkit-scrollbar) {
-    .scroller::-webkit-scrollbar-thumb {
+    .chats::-webkit-scrollbar-thumb {
         background: var(--scrollbar-color-thumb);
     }
-    .scroller::-webkit-scrollbar-track {
+    .chats::-webkit-scrollbar-track {
         background: var(--scrollbar-color-track);
     }
-    .scroller::-webkit-scrollbar {
+    .chats::-webkit-scrollbar {
         max-width: var(--scrollbar-width-legacy);
         max-height: var(--scrollbar-width-legacy);
     }
