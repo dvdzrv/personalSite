@@ -18,13 +18,13 @@
 
             $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
 
-            $DB_req = mysqli_query($DB_con, "SELECT password FROM users WHERE username = '$_POST[username]'");
+            $DB_req = mysqli_query($DB_con, "SELECT username, password FROM users WHERE username = '$_POST[username]'");
             $DB_res = mysqli_query($DB_con, $DB_req);
-
+            echo $_POST['username'] . $_POST['password'];
 
             if(mysqli_num_rows($DB_req) > 0){
                 $row = mysqli_fetch_assoc($DB_req);
-                echo $row['password'];
+                echo $row['username'] . $row['password'];
             } else {
                 echo "ŠPATNE HESLO";
             }
