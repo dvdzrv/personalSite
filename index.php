@@ -99,7 +99,7 @@
 
 
     <aside class="float_left">
-        <h2>Lokálny chat:</h2>
+        <h2>Zanechaj komentár:</h2>
         <p>Čauko, zanechaj svoj unikátny odkaz na tejto stránke:</p>
         <form action="uloz.php" method="post">
             <label for="meno">Tvoje ctené meno:</label>
@@ -150,6 +150,10 @@
         <p>
             Zdrojový kód tejto stránky bude publikovaný na <a href="https://github.com/dvdzrv/">mojom Githube.</a> Prosím inšpiruj sa alebo mi pomôž a moju stránku oprav.
         </p>
+        <br>
+        <br>
+        <br>
+        <img style="width: 5%; height: auto;" src="images/xenia1.png" alt="Xenia The Linux Fox">
     </aside>
 
 
