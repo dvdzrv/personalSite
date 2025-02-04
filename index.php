@@ -15,7 +15,7 @@
         <img src="images/logo.png" alt="Logo" style="height: auto; width: 1%; display: inline; margin-top: 0.15em;">
         <br>
         <nav>
-            <a href="">LINK1</a>
+            <a href="index.php">Osobné portfólio</a>
             <a href="">LINK2</a>
             <a href="">LINK3</a>
         </nav>
