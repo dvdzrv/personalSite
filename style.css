@@ -88,9 +88,10 @@ header nav a:hover {
     border-radius: 1%;
 }
 
-#refreshIMG {
-    width: 1%;
-    height: auto;
+.refreshIMG {
+    width: 1em;
+    height: 1em;
+    text-decoration: none;
 }
 
 
