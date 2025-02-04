@@ -20,7 +20,7 @@
 
             $DB_req = mysqli_query($DB_con, "SELECT password FROM users WHERE username = '$_POST[username]'");
             $DB_res = mysqli_query($DB_con, $DB_req);
-            mysqli_close($DB_con);
+
 
             if(mysqli_num_rows($DB_req) > 0){
                 $row = mysqli_fetch_assoc($DB_req);
@@ -28,6 +28,7 @@
             } else {
                 echo "ŠPATNE HESLO";
             }
+            mysqli_close($DB_con);
         } else {
             echo "
                 <form action=\"login.php\" method=\"post\">
@@ -38,7 +39,6 @@
                 <button type=\"submit\">Prihlásiť sa.</button>
                 </form>";
         }
-
     ?>
 
 
