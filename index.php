@@ -26,74 +26,26 @@
 
     <main>
         <section>
-            <h3>Názov projektu</h3>
             <article>
+                <h3>Názov projektu</h3>
                 <img src="images/lily.webp" alt="Projekt image">
-
-
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid autem consequatur delectus eos esse eum excepturi hic inventore iste iusto odit omnis praesentium quas quo, sit veniam, vero vitae.
-                <br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, error, minima. Aliquam deserunt dignissimos dolor eaque, eum fugiat id itaque, magnam natus non officiis provident quisquam, sapiente sed voluptas voluptatem. <br>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus inventore iste modi qui voluptate? Aliquam cum ea ipsa magni natus non possimus! Consequuntur enim est ex praesentium sunt tempora veniam.
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur deleniti doloremque eligendi est fuga, laborum nemo nesciunt nisi obcaecati, porro quam qui quibusdam quidem quos recusandae reiciendis rem velit veniam.</p>
-                <br>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid autem consequatur delectus eos esse eum excepturi hic inventore iste iusto odit omnis praesentium quas quo, sit veniam, vero vitae.
+                    <br>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, error, minima. Aliquam deserunt dignissimos dolor eaque, eum fugiat id itaque, magnam natus non officiis provident quisquam, sapiente sed voluptas voluptatem. <br>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus inventore iste modi qui voluptate? Aliquam cum ea ipsa magni natus non possimus! Consequuntur enim est ex praesentium sunt tempora veniam.
+                </p>
             </article>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum earum eius tempora temporibus. Aliquam aut beatae earum fuga labore obcaecati reprehenderit, tempore. Alias amet facere id iste neque sunt veniam.</p>
+
+            <article>
+                <h3>Nazov projektu</h3>
+                <img src="" alt="">
+                <p>
+                    Projekt.
+                </p>
+            </article>
+
+
         </section>
     </main>
 
@@ -126,12 +78,12 @@
             $DB_req = "SELECT name, message FROM messages ORDER BY ID DESC";
             $DB_res = mysqli_query($DB_con, $DB_req);
             if (mysqli_num_rows($DB_res) > 0) {
-            while($row = mysqli_fetch_assoc($DB_res)) {
-                echo "<p><b>".$row['name']."</b>: ".$row['message']."</p>";
-            }
-            }else {
-                echo "Nič tu nie je.";
-            }
+                while($row = mysqli_fetch_assoc($DB_res)) {
+                    echo "<p><b>".$row['name']."</b>: ".$row['message']."</p>";
+                }
+                }else {
+                    echo "Nič tu nie je.";
+                }
             mysqli_close($DB_con);
             ?>
         </section>
