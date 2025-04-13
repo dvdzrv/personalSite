@@ -126,6 +126,9 @@ section img {
     float: left;
     max-width: 20%;
     max-height: 20%;
+    padding-right: 0.2em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
 }
 
 .imgLink {
@@ -139,5 +142,5 @@ section img {
 }
 
 a {
-    color: #650d0d;
+    color: #970202;
 }

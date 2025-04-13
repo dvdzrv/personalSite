@@ -29,7 +29,7 @@
             <h2>Kto som ja? Iba developer poza touto stránkou.</h2>
             <article>
                 <h3>Kto je to Kaneki?</h3>
-                <img src="images/kaneki.png" alt="">
+                <img src="images/lily.webp" alt="Projekt image">
                 <h4>Okrem mojej prezývky na internete a prihlasovacieho mena na každom mojom počítači, <a href="https://tokyoghoul.fandom.com/wiki/Ken_Kaneki">Kaneki</a> je postava z anime a mangy <a href="https://en.wikipedia.org/wiki/Tokyo_Ghoul">Tokyo Ghoul</a>.</h4>
 
                 <p>
@@ -50,7 +50,7 @@
 
             <article>
                 <h3>Nazov projektu</h3>
-                <img src="images/lily.webp" alt="Projekt image">
+                <img src="images/kaneki.png" alt="">
                 <p>
                     Projekt. <br>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. <br>
