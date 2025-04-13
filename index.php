@@ -46,6 +46,8 @@
                 </p>
             </article>
 
+            <br>
+
             <article>
                 <h3>Nazov projektu</h3>
                 <img src="" alt="">
