@@ -131,6 +131,12 @@ section article img {
     margin-bottom: 0.5em;
 }
 
+section ul, section ol {
+    padding-left: 0.5em;
+}
+
+
+
 .imgLink {
     height: auto;
     max-width: 3.5%;
