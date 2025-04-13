@@ -150,3 +150,7 @@ ul, ol {
 a {
     color: #970202;
 }
+
+p {
+    text-align: justify;
+}
