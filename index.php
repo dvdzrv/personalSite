@@ -5,14 +5,14 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Osobné portfólio</title>
+    <title>Osobný blog</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="images/logo.png">
 </head>
 <body>
     <header>
         <h1>Dávid Szomolai:</h1>
-        <h1>Osobné portfólio</h1>
+        <h1>Osobný blog</h1>
         <img src="images/logo.png" alt="Logo" style="height: auto; width: 1%; display: inline; margin-top: 0.15em;">
         <br>
         <nav>
@@ -49,18 +49,60 @@
             <br>
 
             <article>
-                <h3>Nazov projektu</h3>
+                <h3>No kto som naozaj ja?</h3>
                 <img src="images/kaneki.png" alt="">
+                <h4>Študent Strednej odbornej školy technickej v Rožňave, na odbore Informačné a sieťové technológie, ktorý dostal za úlohu vytvoriť web na hodine Tvorba Webu.</h4>
                 <p>
-                    Projekt. <br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. <br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. <br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. <br>
+                    Som žiakom triedy II.C, perfektného kolektívu tvoreného rozmanitými osobnosťami.<br>
+                    Okrem projektov a programovanie sa venujem aj hraniu na gitare, kresleniu a čítaniu. No však programovanie je asi mojou najobľúbenejšou činnosťou. Venujem sa mu už dosť dlho, ale tento rok, som konečne dostal pocit, že mám dostatok schopností na vytvorenie väčšieho osobného projektu, no na to nemám dostatok času.<br>
+                    Medzi moje názory patrí:
+                </p>
+                <ul>
+                    <li>
+                        Programovanie s AI nie je programovanie. AI nebude nikdy schopné tvoriť perfektný kód.
+                    </li>
+                    <li>
+                        <a href="https://sk.wikipedia.org/wiki/Linux_(opera%C4%8Dn%C3%BD_syst%C3%A9m)">Linux</a> je najlepší operačný systém.
+                    </li>
+                    <li>
+                        <a href="https://lignux.org/the-say-lignux-campaign.html">RMS</a> je fanatik.
+                    </li>
+                    <li>
+                        Horúca čokoláda > Čaj > Káva
+                    </li>
+                    <li>
+                        Metal > Pop
+                    </li>
+                    <li>
+                        Neverím v žiadne náboženstvo. Verím Darvinvej Terórii evolúcie. Verím Teórii veľkého filtra. Mám liberálne a progresívne politické názory.
+                    </li>
+                    <li>
+                        Predchádzajúcou vetou som naštval poľku Slovenska.
+                    </li>
+                </ul>
+            </article>
+
+            <br>
+
+            <article>
+                <h3>No kto som naozaj ja?</h3>
+                <img src="images/kaneki.png" alt="">
+
+                <h4>Študent Strednej odbornej školy technickej v Rožňave, na odbore Informačné a sieťové technológie, ktorý dostal za úlohu vytvoriť web na hodine Tvorba Webu.</h4>
+                <p>
+                    Tento web, aj keď len úlohou zadanou na hodine, je zaujímavý spôsob vyjadrenia kreativity. Taktiež momentálne pri písaní tejto vety je odreagovaním od druhého projektu (CanSat).
                 </p>
             </article>
 
-
         </section>
+
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
     </main>
 
 
@@ -112,7 +154,7 @@
             Vitaj na mojej osobnej stránke, užívateľ. Moje meno je Dávid Szomolai, tiež nazývaný Kaneki alebo dvdzrv (davidzroznavy).
         </p>
         <p>
-            Cieľom tejto stránky je sa čo najautenticky priblížiť vizuálu Web 1.0 a zárovaň obsahovať moderné funkcie.
+            Cieľom tejto stránky je sa čo najautenticky priblížiť vizuálu blogu v ére Web 1.0 a zárovaň obsahovať moderné funkcie.
         </p>
         <p>
             Zdrojový kód tejto stránky bude publikovaný na <a href="https://github.com/dvdzrv/">mojom Githube.</a> Prosím inšpiruj sa alebo mi pomôž a moju stránku oprav.
