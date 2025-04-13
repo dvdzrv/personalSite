@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Portfólio</title>
+    <title>Osobné portfólio</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="images/logo.png">
 </head>
@@ -27,13 +27,22 @@
     <main>
         <section>
             <article>
-                <h3>Názov projektu</h3>
+                <h3>Kto je to Kaneki?</h3>
                 <img src="images/lily.webp" alt="Projekt image">
+                <h4>Okrem mojej prezývky na internete a prihlasovacieho mena na každom mojom počítači, <a href="https://tokyoghoul.fandom.com/wiki/Ken_Kaneki">Kaneki</a> je postava z anime a mangy <a href="https://en.wikipedia.org/wiki/Tokyo_Ghoul">Tokyo Ghoul</a>.</h4>
+
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquid autem consequatur delectus eos esse eum excepturi hic inventore iste iusto odit omnis praesentium quas quo, sit veniam, vero vitae.
+                    Prečo som si vybral práve Kanekiho, ako moju prezývku? Neviem, jednoducho som si pri výbere užívateľského mena nevedel vybrať nič iné.
                     <br>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, error, minima. Aliquam deserunt dignissimos dolor eaque, eum fugiat id itaque, magnam natus non officiis provident quisquam, sapiente sed voluptas voluptatem. <br>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus inventore iste modi qui voluptate? Aliquam cum ea ipsa magni natus non possimus! Consequuntur enim est ex praesentium sunt tempora veniam.
+                    Tokyo Ghoul je ale séria, ktorú mám veľmi rád a jej spracovanie v <a href="https://sk.wikipedia.org/wiki/Manga">mange</a> by som odporučil každému.
+                    Príbeh sa odohráva v modernom fikcionálnom Japonsku, v meste Tokyo, v ktorom sa nachádzajú <a href="https://tokyoghoul.fandom.com/wiki/Ghoul">ghoulovia</a>, ľudsky vyzerajúce tvory, ktoré však pre prežitie musia jesť ľudské mäso.
+                    Príbeh začína predstavením Kena Kanekiho, ako človeka, ktorý sa ghoulom stane, po transplantácii orgánov od ghoula. Tokyo Ghoul perfektne zachytáva pohľady na svet dvoch strán stvorených si odporovať, ľudí a ghoulov.
+                    No Kaneki vidí tento svet z obidvoch strán, dokáže ich zjednotiť a zastaviť zbytočné krvi prelievanie?
+                </p>
+                <img src="images/kaneki.jpg" alt="Projekt image">
+                <p>
+                    Tokyo Ghoul je sprevádzaný výborným Sound Trackom. Vypočuj si môj výber skladieb z tohto soundracku tu:
+                    <a href="https://youtube.com/playlist?list=PL3v00cnKcREFYkPuUNB2iJp43_I7QxzSV&si=MtelVGeicW6vARgC">Kanekiho Tokyo Ghoul Playlist</a>
                 </p>
             </article>
 
@@ -93,9 +102,9 @@
 
 
     <aside class="float_right">
-        <h1>RIGHT ASIDE</h1>
+        <h1>Uvítanie</h1>
         <p>
-            Vitaj na mojej osobnej stránke, užívateľ.
+            Vitaj na mojej osobnej stránke, užívateľ. Moje meno je Dávid Szomolai, tiež nazývaný Kaneki alebo dvdzrv (davidzroznavy).
         </p>
         <p>
             Cieľom tejto stránky je sa čo najautenticky priblížiť vizuálu Web 1.0 a zárovaň obsahovať moderné funkcie.
