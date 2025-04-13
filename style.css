@@ -131,7 +131,7 @@ section article img {
     margin-bottom: 0.5em;
 }
 
-section ul li, section ol li{
+section ul, section ol {
     margin-left: 1em;
 }
 
