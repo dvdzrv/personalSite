@@ -96,6 +96,7 @@
                     Okrem Pythonu však obľubujem PHP, umožňujúce my tvoriť dynamické webové stránky. Žiadna stránka sa však nezaobíde bez databázy. Mnou často používané databázy sú MySQL a SQLite.
                 </p>
                 <h4>Ako je postavená táto stránka?</h4>
+                <img src="images/powered_by_linux.png" alt="">
                 <p>
                     Pomocou LAMP stacku, zloženého z Linuxu, Apache web serveru, MySQL a PHP. Tento stack je spustený na lokálnom serveri.<br>
                     Na serveri je možné robiť administratívu databázy pomocou PHPMyAdmin.
