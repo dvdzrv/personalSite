@@ -54,7 +54,7 @@
                 <h4>Študent Strednej odbornej školy technickej v Rožňave, na odbore Informačné a sieťové technológie, ktorý dostal za úlohu vytvoriť web na hodine Tvorba Webu.</h4>
                 <p>
                     Som žiakom triedy II.C, perfektného kolektívu tvoreného rozmanitými osobnosťami.<br>
-                    Okrem projektov a programovanie sa venujem aj hraniu na gitare, kresleniu a čítaniu. No však programovanie je asi mojou najobľúbenejšou činnosťou. Venujem sa mu už dosť dlho, ale tento rok, som konečne dostal pocit, že mám dostatok schopností na vytvorenie väčšieho osobného projektu, no na to nemám dostatok času.<br>
+                    Okrem projektov a programovaniu sa venujem aj hraniu na gitare, kresleniu a čítaniu. No však programovanie je asi mojou najobľúbenejšou činnosťou. Venujem sa mu už dosť dlho, ale tento rok, som konečne dostal pocit, že mám dostatok schopností na vytvorenie väčšieho osobného projektu, no na to nemám dostatok času.<br>
                     Medzi moje názory patrí:
                 </p>
                 <ul>
