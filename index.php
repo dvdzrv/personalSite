@@ -50,7 +50,10 @@
                 <h3>Nazov projektu</h3>
                 <img src="" alt="">
                 <p>
-                    Projekt.
+                    Projekt. <br>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. <br>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. <br>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. <br>
                 </p>
             </article>
 

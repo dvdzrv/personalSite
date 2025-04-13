@@ -137,3 +137,7 @@ section img {
     padding: 1em;
     border-radius: 20%;
 }
+
+a {
+    color: #650d0d;
+}
