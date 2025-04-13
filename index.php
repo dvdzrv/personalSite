@@ -95,7 +95,7 @@
                     Môj najobľúbenejší programovací jazyk je momentálne Python. Obľúbil som si jeho jednoduchosť ale zároveň prístup mnohých knižníc, ktoré dopĺňajú tento jazyk.
                     Okrem Pythonu však obľubujem PHP, umožňujúce my tvoriť dynamické webové stránky. Žiadna stránka sa však nezaobíde bez databázy. Mnou často používané databázy sú MySQL a SQLite.
                 </p>
-                <h3>Ako je postavená táto stránka?</h3>
+                <h4>Ako je postavená táto stránka?</h4>
                 <p>
                     Pomocou LAMP stacku, zloženého z Linuxu, Apache web serveru, MySQL a PHP. Tento stack je spustený na lokálnom serveri.<br>
                     Na serveri je možné robiť administratívu databázy pomocou PHPMyAdmin.
