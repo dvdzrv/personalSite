@@ -154,3 +154,8 @@ a {
 p {
     text-align: justify;
 }
+
+.small_tags {
+    width: 5em;
+    height: auto;
+}
