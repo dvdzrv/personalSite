@@ -126,9 +126,9 @@ section article img {
     float: left;
     max-width: 20%;
     max-height: 20%;
-    margin-right: 0.4em;
+    margin-right: 1em;
     padding-top: 0.3em;
-    padding-bottom: 0.3em;
+    margin-bottom: 0.5em;
 }
 
 .imgLink {
