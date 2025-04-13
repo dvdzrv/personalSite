@@ -16,7 +16,7 @@
         <img src="images/logo.png" alt="Logo" style="height: auto; width: 1%; display: inline; margin-top: 0.15em;">
         <br>
         <nav>
-            <a href="index.php">Osobné portfólio</a>
+            <a href="index.php">Osobný blog</a>
             <a href="">LINK2</a>
             <a href="">LINK3</a>
         </nav>
@@ -55,6 +55,7 @@
                 <p>
                     Som žiakom triedy II.C, perfektného kolektívu tvoreného rozmanitými osobnosťami.<br>
                     Okrem projektov a programovaniu sa venujem aj hraniu na gitare, kresleniu a čítaniu. No však programovanie je asi mojou najobľúbenejšou činnosťou. Venujem sa mu už dosť dlho, ale tento rok, som konečne dostal pocit, že mám dostatok schopností na vytvorenie väčšieho osobného projektu, no na to nemám dostatok času.<br>
+                    <br>
                     Medzi moje názory patrí:
                 </p>
                 <ul>
@@ -74,7 +75,7 @@
                         Metal > Pop
                     </li>
                     <li>
-                        Neverím v žiadne náboženstvo. Verím Darvinvej Terórii evolúcie. Verím Teórii veľkého filtra. Mám liberálne a progresívne politické názory.
+                        Neverím v žiadne náboženstvo. Verím Darvinovej Terórii evolúcie. Verím Teórii veľkého filtra. Mám liberálne a progresívne politické názory.
                     </li>
                     <li>
                         Predchádzajúcou vetou som naštval poľku Slovenska.
@@ -85,12 +86,14 @@
             <br>
 
             <article>
-                <h3>No kto som naozaj ja?</h3>
-                <img src="images/kaneki.png" alt="">
-
-                <h4>Študent Strednej odbornej školy technickej v Rožňave, na odbore Informačné a sieťové technológie, ktorý dostal za úlohu vytvoriť web na hodine Tvorba Webu.</h4>
+                <h3>Aké technológie ovládam?</h3>
+                <img src="images/coffee.png" alt="">
+                <h4>Python 3, HTML 5, CSS 3, PHP, C & SQL</h4>
                 <p>
-                    Tento web, aj keď len úlohou zadanou na hodine, je zaujímavý spôsob vyjadrenia kreativity. Taktiež momentálne pri písaní tejto vety je odreagovaním od druhého projektu (CanSat).
+                    Tieto technológie ovládam, vďaka škole a vďaka samo štúdiu doma.<br>
+                    Plánujem sa naučiť aj programovací jazyk Java. <br>
+                    Môj najobľúbenejší programovací jazyk je momentálne Python. Obľúbil som si jeho jednoduchosť ale zároveň prístup mnohých knižníc, ktoré dopĺňajú tento jazyk.
+                    Okrem Pythonu však obľubujem PHP, umožňujúce my tvoriť dynamické webové stránky. Žiadna stránka sa však nezaobíde bez databázy. Mnou často používané databázy sú MySQL a SQLite.
                 </p>
             </article>
 
