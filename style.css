@@ -131,6 +131,10 @@ section article img {
     margin-bottom: 0.5em;
 }
 
+ul, ol {
+    list-style-position: inside;
+}
+
 
 
 .imgLink {
