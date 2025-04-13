@@ -174,8 +174,8 @@
         <br>
         <br>
         <a href="login.php"><img style="width: 35%; height: auto;" src="images/xenia1.png" alt="Xenia The Linux Fox" class="small_tags"></a>
-        <img src="images/valid-html-blue.png" alt="This site has valid HTML!" style="width:5em; height:auto;">
-        <img src="images/valid-css-blue.png" alt="This site has valid CSS!" style="width:5em; height:auto;">
+        <img src="images/valid-html-blue.png" alt="This site has valid HTML!" style="width:25em; height:auto;">
+        <img src="images/valid-css-blue.png" alt="This site has valid CSS!" style="width:25em; height:auto;">
     </aside>
 
 
