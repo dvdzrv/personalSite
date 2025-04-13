@@ -29,6 +29,7 @@
             <article>
                 <h3>Kto je to Kaneki?</h3>
                 <img src="images/lily.webp" alt="Projekt image">
+                <img src="images/kaneki.jpg" alt="Projekt image">
                 <h4>Okrem mojej prezývky na internete a prihlasovacieho mena na každom mojom počítači, <a href="https://tokyoghoul.fandom.com/wiki/Ken_Kaneki">Kaneki</a> je postava z anime a mangy <a href="https://en.wikipedia.org/wiki/Tokyo_Ghoul">Tokyo Ghoul</a>.</h4>
 
                 <p>
@@ -39,7 +40,6 @@
                     Príbeh začína predstavením Kena Kanekiho, ako človeka, ktorý sa ghoulom stane, po transplantácii orgánov od ghoula. Tokyo Ghoul perfektne zachytáva pohľady na svet dvoch strán stvorených si odporovať, ľudí a ghoulov.
                     No Kaneki vidí tento svet z obidvoch strán, dokáže ich zjednotiť a zastaviť zbytočné krvi prelievanie?
                 </p>
-                <img src="images/kaneki.jpg" alt="Projekt image">
                 <p>
                     Tokyo Ghoul je sprevádzaný výborným Sound Trackom. Vypočuj si môj výber skladieb z tohto soundracku tu:
                     <a href="https://youtube.com/playlist?list=PL3v00cnKcREFYkPuUNB2iJp43_I7QxzSV&si=MtelVGeicW6vARgC">Kanekiho Tokyo Ghoul Playlist</a>
