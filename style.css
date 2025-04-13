@@ -122,7 +122,7 @@ footer {
     background-color: darkgray;
 }
 
-section img {
+section article img {
     float: left;
     max-width: 20%;
     max-height: 20%;
