@@ -27,8 +27,8 @@
         <section>
             <article>
                 <h2>Pravidlá internetu:</h2>
-                <p>0. Tom is a genius.</p>
-                <ol>
+                <ol start="0">
+                    <li>Tom is a genius.</li>
                     <li></li>
                 </ol>
             </article>
