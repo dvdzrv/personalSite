@@ -5,17 +5,12 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Booru</title>
-
+    <title>Osobný blog</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="images/logo.png">
-
 </head>
 
-
-
 <body>
-
     <header>
         <h1>Dávid Szomolai:</h1>
         <h1>Osobný blog</h1>
@@ -23,27 +18,68 @@
         <br>
         <nav>
             <a href="index.php">Osobný blog</a>
-            <a href="">Osobné portfólio</a>
+            <a href="booru.php">Osobné portfólio</a>
             <a href="">Booru</a>
         </nav>
     </header>
 
-
     <main>
-
-
+        <section>
+            <article>
+                <h2>Pravidlá internetu:</h2>
+                <p>0. Tom is a genius.</p>
+                <ol>
+                    <li></li>
+                </ol>
+            </article>
+        </section>
     </main>
 
 
 
-    <aside class="float_left">
-        <h2>Left ASIDE</h2>
-        <p>Popisok</p>
 
+
+
+
+
+    <aside class="float_left">
+        <h2>Zanechaj komentár:</h2>
+        <p>Čauko, zanechaj svoj unikátny odkaz na tejto stránke:</p>
+        <form action="uloz.php" method="post">
+            <label for="name">Tvoje ctené meno:</label>
+            <input type="text" name="name" id="name">
+            <label for="message">Tvoja jedinečná správa:</label>
+            <input type="text" name="message" id="message">
+            <button type="submit">Poslať</button>
+            <button class="refreshIMG"><a class="refreshIMG" href="index.php">Refresh</a></button>
+        </form>
+        <section style="overflow:scroll;" class="chats" id="chatBar">
+            <?php
+
+            $env = parse_ini_file(".env");
+
+            $DB_host = $env['DB_HOST'];
+            $DB_user = $env['DB_USER'];
+            $DB_pass = $env['DB_PASS'];
+            $DB_name = $env['DB_NAME'];
+
+
+            $DB_con = mysqli_connect($DB_host, $DB_user, $DB_pass, $DB_name);
+
+            $DB_req = "SELECT name, message FROM messages ORDER BY ID DESC";
+            $DB_res = mysqli_query($DB_con, $DB_req);
+            if (mysqli_num_rows($DB_res) > 0) {
+                while($row = mysqli_fetch_assoc($DB_res)) {
+                    echo "<p><b>".$row['name']."</b>: ".$row['message']."</p>";
+                }
+            }else {
+                echo "Nič tu nie je.";
+            }
+            mysqli_close($DB_con);
+            ?>
+        </section>
 
     </aside>
-
-
 
 
 
@@ -70,11 +106,6 @@
     </aside>
 
 
-
-
-
-
-
     <footer>
         <p>
             Kontakt: <br>
@@ -94,6 +125,4 @@
 
 
 </body>
-
-
 </html>
