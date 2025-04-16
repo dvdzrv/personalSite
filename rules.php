@@ -19,7 +19,7 @@
         <nav>
             <a href="index.php">Osobný blog</a>
             <a href="portfolio.php">Osobné portfólio</a>
-            <a href="booru.php">Booru</a>
+            <!-- <a href="booru.php">Booru</a> -->
             <a href="rules.php">Pravidlá internetu</a>
         </nav>
     </header>
@@ -31,6 +31,21 @@
                 <ol start="-1" style="list-style-position: outside;">
                     <li>Tom is a genius.</li>
                     <li>Terry is a king.</li>
+                    <li>We all are on a CIA most wanted list.</li>
+                    <li>CIA is on my most wanted list.</li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+
                 </ol>
             </article>
         </section>
@@ -55,7 +70,7 @@
             <button class="refreshIMG"><a class="refreshIMG" href="index.php">Refresh</a></button>
         </form>
         <section style="overflow:scroll;" class="chats" id="chatBar">
-            <?php
+           <!-- <?php
 
             $env = parse_ini_file(".env");
 
@@ -77,7 +92,7 @@
                 echo "Nič tu nie je.";
             }
             mysqli_close($DB_con);
-            ?>
+            ?> -->
         </section>
 
     </aside>

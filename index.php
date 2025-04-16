@@ -18,7 +18,7 @@
         <nav>
             <a href="index.php">Osobný blog</a>
             <a href="portfolio.php">Osobné portfólio</a>
-            <a href="booru.php">Booru</a>
+            <!-- <a href="booru.php">Booru</a> -->
             <a href="rules.php">Pravidlá internetu</a>
         </nav>
     </header>
