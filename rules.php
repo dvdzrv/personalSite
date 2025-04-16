@@ -28,9 +28,9 @@
         <section>
             <article>
                 <h2>Pravidlá internetu:</h2>
-                <ol start="0">
+                <ol start="-1">
                     <li>Tom is a genius.</li>
-                    <li></li>
+                    <li>Terry is a king.</li>
                 </ol>
             </article>
         </section>
