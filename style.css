@@ -44,6 +44,8 @@ header nav {
 header nav a {
     text-decoration: none;
     color: white;
+    border-inline: white;
+    border-inline-width: 0.01em;
 }
 
 header nav a:hover {
