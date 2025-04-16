@@ -17,8 +17,8 @@
         <br>
         <nav>
             <a href="index.php">Osobný blog</a>
-            <a href="">LINK2</a>
-            <a href="">LINK3</a>
+            <a href="">Osobné portfólio</a>
+            <a href="">Booru</a>
         </nav>
     </header>
 
@@ -88,7 +88,7 @@
             <article>
                 <h3>Aké technológie ovládam?</h3>
                 <img src="images/coffee.png" alt="">
-                <h4>Python 3, HTML 5, CSS 3, PHP, C & SQL</h4>
+                <h4>Python 3, HTML 5, CSS 3, PHP, C, SQL, Git & Github</h4>
                 <p>
                     Tieto technológie ovládam, vďaka škole a vďaka samo štúdiu doma.<br>
                     Plánujem sa naučiť aj programovací jazyk Java. <br>
