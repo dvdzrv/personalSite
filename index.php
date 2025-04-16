@@ -78,7 +78,7 @@
                         Neverím v žiadne náboženstvo. Verím Darvinovej Terórii evolúcie. Verím Teórii veľkého filtra. Mám liberálne a progresívne politické názory.
                     </li>
                     <li>
-                        Predchádzajúcou vetou som naštval poľku Slovenska.
+                        Predchádzajúcou vetou som naštval polku Slovenska.
                     </li>
                 </ul>
             </article>
