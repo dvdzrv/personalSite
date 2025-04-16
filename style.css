@@ -45,7 +45,7 @@ header nav a {
     text-decoration: none;
     color: white;
     border-inline: white;
-    border-inline-width: 0.01em;
+    border-inline-width: 1em;
 }
 
 header nav a:hover {
