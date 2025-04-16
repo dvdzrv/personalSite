@@ -28,7 +28,7 @@
         <section>
             <article>
                 <h2>Pravidlá internetu:</h2>
-                <ol start="-1">
+                <ol start="-1" style="list-style-position: outside;">
                     <li>Tom is a genius.</li>
                     <li>Terry is a king.</li>
                 </ol>
