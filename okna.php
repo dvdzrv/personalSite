@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Osobný blog</title>
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/okna.css">
     <link rel="icon" type="image/x-icon" href="images/logo.png">
 </head>
 
@@ -16,29 +17,26 @@
     <main>
         <section>
             <article>
-                <h2>Pravidlá internetu:</h2>
-                <ol start="-1" style="list-style-position: outside;">
-                    <li>Tom is a genius.</li>
-                    <li>Terry is a king.</li>
-                    <li>We all are on a CIA most wanted list.</li>
-                    <li>CIA is on my most wanted list.</li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-
-                </ol>
+                <h1>TEXT</h1>
+                <p>
+                    Dobrý deň
+                </p>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h1>TEXT</h1>
+            </article>
+        </section>
+        <section>
+            <article>
+                <h1>TEXT</h1>
             </article>
         </section>
     </main>
+
+
+
 
 
 

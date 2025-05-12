@@ -1,0 +1,15 @@
+section {
+    margin-bottom: 1em;
+    border: solid #970202 0.3em;
+}
+
+section article h1 {
+    background-color: #970202;
+    padding: 1em 0 1em 1em;
+    margin: 0;
+    color: white;
+}
+
+section article p {
+    padding: 1em;
+}

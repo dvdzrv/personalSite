@@ -8,6 +8,8 @@
     <title>Admin</title>
 </head>
 <body>
+    <?php include_once "reusable/header.php"; ?>
+
     <?php
         if (!empty($_POST ['username']) AND !empty($_POST ['password'])) {
             $env = parse_ini_file(".env");
@@ -49,7 +51,11 @@
     ?>
 
 
+    <?php include_once "reusable/left_aside.php" ?>
 
+    <?php include_once "reusable/right_aside.php" ?>
+
+    <?php include_once "reusable/footer.php" ?>
 
 </body>
 </html>
