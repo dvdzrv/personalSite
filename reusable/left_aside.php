@@ -3,7 +3,7 @@
 <aside class="float_left">
     <h2>Zanechaj komentár:</h2>
     <p>Čauko, zanechaj svoj unikátny odkaz na tejto stránke:</p>
-    <form action="../uloz.php" method="post">
+    <form action="uloz.php" method="post">
         <label for="name">Tvoje ctené meno:</label>
         <input type="text" name="name" id="name">
         <label for="message">Tvoja jedinečná správa:</label>
