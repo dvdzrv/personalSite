@@ -9,9 +9,9 @@
         <label for="message">Tvoja jedinečná správa:</label>
         <input type="text" name="message" id="message">
         <button type="submit">Poslať</button>
-        <button class="refreshIMG"><a class="refreshIMG" href="../index.php">Refresh</a></button>
+        <button class="refreshIMG"><a class="refreshIMG" href="index.php">Refresh</a></button>
     </form>
     <section style="overflow:scroll;" class="chats" id="chatBar">
-        <?php //include_once "chat.php"; ?>
+        <?php include_once "chat.php"; ?>
     </section>
 </aside>
