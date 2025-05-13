@@ -6,7 +6,7 @@
         Vitaj, na mojej osobnej stránke, užívateľ. Moje meno je Dávid Szomolai, tiež nazývaný Kaneki alebo dvdzrv (davidzroznavy).
     </p>
     <p>
-        Cieľom tejto stránky je sa čo najautenticky priblížiť vizuálu blogu v ére Web 1.0 a zárovaň obsahovať moderné funkcie.
+        Cieľom tejto stránky je sa čo najautenticky priblížiť vizuálu blogu v ére Web 1.0 a zárovaň obsahovať zaujímavé funkcie.
     </p>
     <p>
         Zdrojový kód tejto stránky bude publikovaný na <a href="https://github.com/dvdzrv/">mojom Githube.</a> Prosím inšpiruj sa alebo mi pomôž a moju stránku oprav.
