@@ -1,0 +1,8 @@
+Dobrý deň,
+odosielam stránku podľa zadania.
+GitHub: https://github.com/dvdzrv/personalSite
+Stránku posielam v dvoch formátoch, source code, kde je aj php kód a aj stránku vyrenderovanú.
+
+Stránka je dostupná na školskej sieti na adrese: http://172.30.0.101/personalSite/
+
+Szomolai 2.6.2025
