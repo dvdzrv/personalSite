@@ -12,6 +12,6 @@
         <button class="refreshIMG" type="reset"><a class="refreshIMG" href="index.php">Refresh</a></button>
     </form>
     <section style="overflow:scroll;" class="chats" id="chatBar">
-        <?php //include_once "chat.php"; ?>
+        <?php include_once "chat.php"; ?>
     </section>
 </aside>
