@@ -10,8 +10,9 @@
     <link rel="icon" type="image/x-icon" href="images/logo.png">
 </head>
 <body>
-
     <?php include_once "reusable/header.php"; ?>
+
+    <br>
 
     <main>
         <section>
@@ -98,13 +99,10 @@
 
         </section>
 
+        <br>
+        <br>
+        <br>
 
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
     </main>
 
 
@@ -114,5 +112,19 @@
     <?php include_once "reusable/right_aside.php" ?>
 
     <?php include_once "reusable/footer.php" ?>
+
+
+    <script>
+        //Script presmeruje užívateľa na druhú stránku, v prípade, že je na telefóne. Spraví tak, iba ak na stránke užívateľ ešte nebol.
+        document.addEventListener("DOMContentLoaded", function () {
+            const hasVisited = localStorage.getItem('hasVisited');
+            const screenWidth = window.innerWidth;
+
+            if (!hasVisited && screenWidth < 800) {
+                localStorage.setItem('hasVisited', 'true');
+                window.location.href = '/index_telefon.php';
+            }
+        });
+    </script>
 </body>
 </html>

@@ -1,0 +1,18 @@
+.gallery {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.gallery img {
+    object-fit: cover;
+    width: 17rem;
+    height: 12rem;
+    margin: 0.1rem;
+}
+
+.gallery img:hover {
+    transform: scale(1.3);
+    box-shadow: 0.2rem 0.4rem 0.8rem 0.1rem rgb(101, 13, 13), 0 0.6rem 2rem 0.2rem rgba(0, 0, 0, 0.19);
+}
