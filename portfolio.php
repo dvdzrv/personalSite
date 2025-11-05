@@ -18,7 +18,9 @@
         <div class="github_chart">
             <h2>GitHub</h2>
             <h3>Graf aktivity na platforme GitHub.</h3>
-            <img src="./images/github_contrib.png" alt="Graf aktivity na platforme GitHub.">
+            <?php
+                include "./reusable/github.php";
+            ?>
             <p>Graf zobrazuje kedy prispievam na platformu GitHub, tj. kedy programujem.</p>
         </div>
 
